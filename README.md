@@ -5,7 +5,7 @@ Public script repository for https://mortifiers.com
 Create a pull request with your additional scripts along with the following for each script:
   - Title
   - Game(s)
-  - Category (see [Categories](#Categories))
+  - Categories (see [Categories](#Categories))
   - What the script does
   - Pictures (If applicable)
 
