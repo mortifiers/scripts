@@ -1,0 +1,18 @@
+# Scripts
+Public script repository for https://mortifiers.com
+
+## Contributing
+Create a pull request with your additional scripts along with the following for each script:
+  - Title
+  - Game(s)
+  - Category (see [Categories](#Categories))
+  - What the script does
+  - Pictures (If applicable)
+
+## Categories
+These are the categories of scripts for each game.
+  - Counter-Strike: Global Offensive
+    + Legit
+    + Rage
+    + Visual
+    + Misc
