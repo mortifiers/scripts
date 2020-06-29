@@ -7,7 +7,7 @@ Create a pull request with your additional scripts along with the following for 
   - Game(s)
   - Categories (see [Categories](#Categories))
   - What the script does
-  - Pictures (If applicable)
+  - Pictures / Videos (If applicable)
 
 ## Categories
 These are the categories of scripts for each game.
