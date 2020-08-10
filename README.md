@@ -1,5 +1,5 @@
 # Scripts
-Public script repository for https://mortifiers.com
+Public script repository for [mortifiers](https://mortifiers.com)
 
 ## Contributing
 Create a pull request with your additional scripts along with the following for each script:
