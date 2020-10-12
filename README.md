@@ -16,3 +16,6 @@ These are the categories of scripts for each game.
     + Rage
     + Visual
     + Misc
+  
+## Beyond Kernel Scripts
+Scripts for Beyond Kernel should not be submitted.
